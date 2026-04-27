@@ -1,4 +1,4 @@
-# 💱 Currency Converter (Node.js)
+# 💱 Currency Converter (Node.js CLI)
 
 A simple command-line based currency converter built using Node.js.
 This project allows users to enter an amount in USD and convert it into a target currency.
