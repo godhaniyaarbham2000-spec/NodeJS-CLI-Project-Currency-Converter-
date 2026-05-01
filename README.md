@@ -25,7 +25,7 @@ This project allows users to enter an amount in USD and convert it into a target
 ## 📂 Project Structure
 
 ```
-currency-converter/
+NodeJS-CLI-Project-Currency-Converter/
 │── currencyconverter.js
 │── package.json
 │── package-lock.json
@@ -40,7 +40,10 @@ Clone the repository:
 
 ```
 git clone https://github.com/godhaniyaarbham2000-spec/Node-Project-Currency-Converter-.git
-cd Node-Project-Currency-Converter-
+```
+Go to project folder
+```
+cd NodeJS-CLI-Project-Currency-Converter
 ```
 
 Install dependencies:
